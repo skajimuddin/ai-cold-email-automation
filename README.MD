@@ -2,6 +2,8 @@
 
 Automated email marketing tool that scrapes social media for business contacts and sends personalized cold emails.Advanced automated email marketing solution that intelligently scrapes social media platforms to discover business contacts, then leverages AI-powered personalization engines to craft and deliver highly targeted cold email campaigns. This comprehensive tool combines cutting-edge web scraping technology, artificial intelligence content generation, and smart email delivery systems to streamline lead generation and maximize outreach effectiveness for businesses across all industries.
 
+![Screenshot of the AI cold email automation tool](ss.png)
+
 ## Features
 
 - 🔍 **Web Scraping**: Extracts business emails from Instagram using search terms
